@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="733b265f-e7a6-43eb-8016-2db209e7d3eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+    <list default="true" id="733b265f-e7a6-43eb-8016-2db209e7d3eb" name="Changes" comment="go-chat-demo">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +63,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="go-chat-demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="go-chat-demo" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
